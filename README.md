@@ -50,7 +50,7 @@ To use the Professional README Generator, follow these steps:
 
 
 ## Demo
-Click [here]([https://example.com](https://drive.google.com/file/d/1xt5UoTDDjr9rtYaVCQkABlqltdpy84-k/view)) to watch a screen capture video demonstrating the usage of the Professional README Generator.
+Click [here](https://drive.google.com/file/d/1xt5UoTDDjr9rtYaVCQkABlqltdpy84-k/view) to watch a screen capture video demonstrating the usage of the Professional README Generator.
 
 ## Questions or Issues
 If you have any questions or issues with the Professional README Generator, please feel free to [open an issue](https://github.com/your-username/your-repo/issues) on the GitHub repository. We will be happy to assist you.
